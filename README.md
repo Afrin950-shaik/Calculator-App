@@ -24,12 +24,6 @@ This is a simple command-line calculator created using Python. The goal is to pe
 
 ---
 
-calculator-project/
-│
-├── calculator.py
-├── screenshot.png
-
-
 ##  How to Run
 
 1. **Clone the repository** or download the `calculator.py` file.
